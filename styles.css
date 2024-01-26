@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.avatar {
+  width: 150px;
+}
+
+.card {
+  width: 480px;
+  margin: 0 auto; /* short hand */
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #222;
+  border-bottom: 6px solid #1db954;
+  color: #dfe1e5;
+}
+
+.spotify {
+  display: flex;
+  justify-content: center;
+}
